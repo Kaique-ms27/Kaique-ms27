@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+-🎓Aualmente estou estudando Desencolvimento de  Sistemas no Senai;
+- 🌱 Estou aprendendo  Front-End e Back-end
+- 👯
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓Estudando Desenvolvimento de Sistemas no Seniai;<br>
+🎓Cursando 2º Ano do Ensino Médio no SESI;<br>
+🚩São Paulo/ São Bernardo do Campo;<br>
+° Gosto de adquirr conhecimento sobre tuo que posso<br>
+° Procuro sempre melhorar as minhas habilidades e aprender com meus erros<br>
+😝 Curios:
+- Sou fã de futebol
+- Gosto de múisicas
+- Gosto de ajudar os outros
+
+
