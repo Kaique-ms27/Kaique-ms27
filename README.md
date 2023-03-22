@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 🚩São Paulo/ São Bernardo do Campo;<br>
 ° Gosto de adquirr conhecimento sobre tuo que posso<br>
 ° Procuro sempre melhorar as minhas habilidades e aprender com meus erros<br>
+Email: kaiquemagalhaes27@gmail.com <br>
 😝 Curios:
 - Sou fã de futebol
 - Gosto de múisicas
