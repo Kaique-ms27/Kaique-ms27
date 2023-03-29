@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 🎓Estudando Desenvolvimento de Sistemas no Seniai;<br>
 🎓Cursando 2º Ano do Ensino Médio no SESI;<br>
 🚩São Paulo/ São Bernardo do Campo;<br>
-° Gosto de adquirr conhecimento sobre tuo que posso<br>
+° Gosto de adquirir conhecimento sobre tudo o que posso<br>
 ° Procuro sempre melhorar as minhas habilidades e aprender com meus erros<br>
 Email: kaiquemagalhaes27@gmail.com <br>
-😝 Curios:
+😝 Curiosidade:
 - Sou fã de futebol
-- Gosto de múisicas
+- Gosto de músicas
 - Gosto de ajudar os outros
 
 ## Ferramentas e Tecn
