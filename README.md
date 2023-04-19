@@ -26,9 +26,9 @@ Email: kaiquemagalhaes27@gmail.com <br>
 - Gosto de ajudar os outros
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "40" heigth = "40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "50" heigth = "50" />
 ## Estou Aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "40" heigth = "40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "40" heigth = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "50" heigth = "50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "50" heigth = "50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height= "50" width="50"/>
 
 <div> 
  <a href="https://github.com/Kaique-ms27">
