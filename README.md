@@ -1,7 +1,7 @@
 # Olá, sou o Kaique
 
 - 🎓Estudando ADS pelo SENAI
-= 📖 Gosto de adquirir conhecimento sobre tudo o que posso
+- 📖 Gosto de adquirir conhecimento sobre tudo o que posso
 - 🧗‍♂️ Procuro sempre melhorar e aprender com meus erros
 - ⚒ Transformando minhas ideias em alguns .ppt
 <br>
