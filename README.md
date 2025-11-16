@@ -1,9 +1,10 @@
 # Olá, sou o Kaique
 
-- 🎓Estudando ADS pelo SENAI
+- 🎓 Formado Técnico em Desenvolvimento de Sistemas pelo Senai
+- 📚 Cursando Superior em Análise e Desenvolvimento de Sistemas pelo Senai
 - 📖 Gosto de adquirir conhecimento sobre tudo o que posso
 - 🧗‍♂️ Procuro sempre melhorar e aprender com meus erros
-- ⚒ Transformando minhas ideias em alguns .ppt
+- ⚒ Transformando minhas ideias em alguns .pptx
 <br>
 
 <h2 align="center">Linguagens e ferramentas</h2>
