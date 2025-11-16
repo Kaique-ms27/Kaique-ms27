@@ -9,7 +9,7 @@
 <h2 align="center">Linguagens e ferramentas</h2>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,py,mysql,kotlin,github,vscode,eclipse,idea&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,py,mysql,kotlin,github,vscode,eclipse,idea,git,notion,postman,react,spring,ubuntu&perline=6)](https://skillicons.dev)
 </div><br>
 
 <div align="center">
