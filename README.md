@@ -14,15 +14,10 @@
 </div><br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Kaique-ms27&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-ms27&theme=dark&layout=compact&langs_count=10" />
-  </a>
-  [![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-ms27&layout=compact&theme=github_dark)]
-
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Kaique-ms27&show_icons=true&theme=github_dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-ms27&theme=github_dark&layout=compact&langs_count=6" />
 </div>
+
 
 
 
