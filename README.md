@@ -21,5 +21,7 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-ms27&theme=dark&layout=compact&langs_count=10" />
   </a>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-ms27&layout=compact&theme=radical)
+
 
 
