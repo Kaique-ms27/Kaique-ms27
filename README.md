@@ -5,6 +5,7 @@
 - 📖 Gosto de adquirir conhecimento sobre tudo o que posso
 - 🧗‍♂️ Procuro sempre melhorar e aprender com meus erros
 - ⚒ Transformando minhas ideias em alguns .pptx
+- 💻 Desenvolvedor Back End Java
 <br>
 
 <h2 align="center">Linguagens e ferramentas</h2>
@@ -23,8 +24,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaique-ms27/Kaique-ms27/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kaique-ms27/Kaique-ms27/output/pacman-contribution-graph.svg">
 </picture>
-
-<a>https://cursos.alura.com.br/certificate/5b08e0a7-8100-4310-928a-dcbf994e5e84?lang=pt_BR</a>
 
 
 
