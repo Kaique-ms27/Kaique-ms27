@@ -24,6 +24,8 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Kaique-ms27/Kaique-ms27/output/pacman-contribution-graph.svg">
 </picture>
 
+<a>https://cursos.alura.com.br/certificate/5b08e0a7-8100-4310-928a-dcbf994e5e84?lang=pt_BR</a>
+
 
 
 
